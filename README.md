@@ -1,7 +1,8 @@
 ## Olá! Eu sou o João Alves. 
 
-- 🌟 Programador Front-endd iniciante
+- 🌟 Programador Front-end iniciante
 - 🌱 Estudando python
+- 🔝 Em busca do Full-stack
 - 👯 À procura de oportunidade na área de T.I.
 - 😄 Pronomes: Ele/Dele ...
 
