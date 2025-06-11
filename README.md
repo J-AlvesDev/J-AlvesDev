@@ -63,7 +63,7 @@
       alt="GitHub Stats" 
       height="200"
       width="45%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AlvesDev&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&show_icons=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-AlvesDev&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6&show_icons=true&locale=pt-br" 
   />
 
 </p>
