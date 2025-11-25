@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Alves. 
 
 - 🌟 Programador iniciante
-- 🌱 Estudando python
+- 🌱 Estudando...
 - 🔝 Sempre querendo mais!
 - 👯 À procura de oportunidade na área de T.I.
 - 😄 Pronomes: Ele/Dele ...
