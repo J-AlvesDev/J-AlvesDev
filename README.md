@@ -54,8 +54,8 @@
 
 <img 
     align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
+    alt="react" 
+    title="react"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
@@ -63,16 +63,16 @@
 
 <img 
     align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
+    alt="express" 
+    title="express"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
+    alt="node.js" 
+    title="node.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
